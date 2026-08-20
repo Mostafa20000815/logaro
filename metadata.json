@@ -1,0 +1,8 @@
+{
+  "name": "Remix لوغارو - Werewolf",
+  "description": "تطبيق لعبة المستذئبون (Loup-Garou / Werewolf) الجماعية بنظام Pass \u0026 Play مع بطاقات ثلاثية الأبعاد وجميع أدوار القرية وعشيرة الذئاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

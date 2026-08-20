@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Solid Shadow Circle (Offset 4dp) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M58,58m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0" />
+
+    <!-- Pop Red Circle with Black Border -->
+    <path
+        android:fillColor="#FF3366"
+        android:strokeColor="#000000"
+        android:strokeWidth="3.5"
+        android:pathData="M54,54m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0" />
+
+    <!-- Wolf Silhouette in Black -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M38,76 C39,72 41,68 43,65 C41,64 38,62 36,59 C34,56 34,53 36,50 C38,47 42,46 45,47 C44,43 45,39 48,36 C50,34 53,33 55,34 C58,30 63,26 69,24 C72,23 76,24 78,27 C80,30 79,34 76,37 C80,38 83,41 83,45 C83,48 81,51 78,53 C80,56 80,60 78,64 C76,68 73,71 70,73 C68,75 67,77 66,80 L38,80 Z" />
+
+    <!-- Pop Yellow Eye -->
+    <path
+        android:fillColor="#FFE600"
+        android:pathData="M65,34 A2.5,2.5 0 1,1 60,34 A2.5,2.5 0 1,1 65,34" />
+</vector>
